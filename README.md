@@ -1,0 +1,1 @@
+# docker-aspnetcore-s6-5.0.6
